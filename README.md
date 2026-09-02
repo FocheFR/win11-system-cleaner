@@ -13,10 +13,10 @@ Script PowerShell léger d'automatisation pour la maintenance basique de Windows
 
 Ouvre un terminal **PowerShell en Administrateur** et exécute :
 
-\`\`\`powershell
+```powershell
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 .\maintenance.ps1
-\`\`\`
+```
 
 ## Licence
 
