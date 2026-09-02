@@ -1,4 +1,4 @@
-<#
+﻿<#
 .SYNOPSIS
     Script de nettoyage et d'entretien rapide pour Windows 11.
 .DESCRIPTION
@@ -12,6 +12,8 @@
 
 [CmdletBinding()]
 param()
+
+[Console]::OutputEncoding = [System.Text.Encoding]::UTF8
 
 $ErrorActionPreference = 'SilentlyContinue'
 
