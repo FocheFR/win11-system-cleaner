@@ -81,6 +81,10 @@ Le fichier `WindowsCleaner.exe` demandera automatiquement l'élévation UAC au d
 
 ---
 
+## Téléchargement direct
+
+Tu peux télécharger directement l'exécutable autonome (sans passer par la console) sur la page des [Releases](https://github.com/FocheFR/win11-system-cleaner/releases).
+
 ## Licence
 
 Distribué sous licence MIT. Consulte le fichier `LICENSE` pour plus de détails.
