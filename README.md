@@ -28,7 +28,8 @@ win11-system-cleaner/
 ├── LICENSE
 ├── README.md
 ├── maintenance.ps1      # Script CLI rapide (tout-en-un)
-└── cleaner-gui.ps1      # Interface graphique WinForms avec options
+├── cleaner-gui.ps1      # Interface graphique WinForms avec options
+└── WindowsCleaner.exe
 ```
 
 ---
